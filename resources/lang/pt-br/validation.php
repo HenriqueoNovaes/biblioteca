@@ -27,6 +27,9 @@ return [
             'required' => 'O campo nome é obrigatório.',
             'max' => 'O campo nome não pode ter mais de 255 caracteres.',
         ],
+        'return_date'=> [
+            'after' => 'Não é possível registrar a devolução do livro em uma data anterior à data de empréstimo.',
+        ],
     ],
 ];
 
