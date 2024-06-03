@@ -41,8 +41,8 @@ Acesse a aplicação em seu navegador visitando http://localhost:8000.
 
 ## Utilizando o Projeto
 
-Clique em LOGIN na tela que aparecer
-Efetuo o seu devido Registro clicando em Registrar um novo mebro, preencha os dados corretamente.
-Caso não tenha utilizado o Seeder, após acessar a plataforma não esqueça de alimentar a parte de GENEROS, LIVROS E USUARIOS. 
+Clique em LOGIN na tela inicial.
+Para se registrar, clique em Registrar um novo membro e preencha todos os dados corretamente.
+Caso não tenha utilizado o Seeder, após acessar a plataforma, lembre-se de adicionar as informações nas seções de Gêneros, Livros e Usuários.
 
 
